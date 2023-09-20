@@ -1,6 +1,6 @@
 [package]
 name = "beats-em-up"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jonathan Hartman <j@hartman.io>"]
 description = "A small program to output the time in .beats"
 license = "Apache-2.0"
@@ -12,3 +12,4 @@ repository = "https://github.com/hartmantis/beats-em-up"
 
 [dependencies]
 chrono = "0.4.31"
+clap = { version = "4.4.4", features = ["derive"] }
