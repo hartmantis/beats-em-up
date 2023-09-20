@@ -1,6 +1,6 @@
 [package]
 name = "beats-em-up"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Jonathan Hartman <j@hartman.io>"]
 description = "A small program to output the time in .beats"
 license = "Apache-2.0"
