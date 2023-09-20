@@ -1,0 +1,14 @@
+[package]
+name = "beats-em-up"
+version = "0.1.0"
+authors = ["Jonathan Hartman <j@hartman.io>"]
+description = "A small program to output the time in .beats"
+license = "Apache-2.0"
+edition = "2021"
+readme = "README.md"
+repository = "https://github.com/hartmantis/beats-em-up"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.31"
